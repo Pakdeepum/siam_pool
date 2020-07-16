@@ -1,0 +1,30 @@
+<?php
+return [
+    'Payment_Notification' => 'แจ้งชำระเงิน',
+    'Choose_Bank_To_Tranfer' => 'เลือกธนาคารที่โอนเงิน',
+    'Please_Select_Bank_Account_to_transfer' => 'เลือกบัญชีธนาคารที่โอนเงิน..',
+    'Transfer_Date' => 'วันที่ชำระเงิน',
+    'Please_Select_Transfer_Date' => 'กรุณาเลือกวันที่ชำระเงิน ..',
+    'Amount' => 'จำนวนเงิน',
+    'Please_Fill_Amount' => 'กรุณาเลือกจำนวนเงิน*..',
+    'Transfer_Slip' => 'หลักฐานการโอนเงิน',
+    'Please_Select_Transfer_Slip' => 'กรุณาเลือกหลักฐานการโอน*..',
+    'Attach_transfer_slip_will_make_checking_faster' => 'การแนบหลักฐานจะช่วยทำให้ตรวจสอบได้เร็วขึ้น',
+    'Type_Order_Number_that_you_need_to_pay' => 'การแนบหลักฐานจะช่วยทำให้ตรวจสอบได้เร็วขึ้น',
+    'Plesee_Fill_Order_Number' => 'กรุณากรอกเลขที่การสั่งซื้อที่ต้องการชำระ..',
+    'Oder'=>'รายการสั่งซื้อ',
+    'placeholder'=>[
+        'Order_Number' => 'เลขที่การสั่งซื้อ..',
+    ],
+    'product'=>'สินค้า',
+    'price/item'=>'ราคา/ชิ้น',
+    'total_price'=>'ราคารวม',
+    'amount'=>'จำนวน',
+    'Payment_Notify'=>'แจ้งการชำระเงิน',
+    'Successfully_Completed'=>'บันทึกรายการสำเร็จ',
+    'ok'=>'ตกลง',
+    'These_Was_has_a_problem'=>'มีปัญหาบางอย่างเกิดขึ้น',
+    'choose_promptpay'=>'หรือชำระเงินผ่านพร้อมเพย์',
+    'promptpay_info'=>'POOLSHOPBKK พร้อมเพย์',
+];
+?>
